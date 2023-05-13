@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "803177941128",
+    "project_id": "pace-fb2fc",
+    "storage_bucket": "pace-fb2fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803177941128:android:6c5c416bf4d64f68ff373d",
+        "android_client_info": {
+          "package_name": "com.example.pace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803177941128-j35hjdsp3k4sugmib9gbue8d30jtiopl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdXRgW1edp8OfP1HMzNE3l3drOb-8C5Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803177941128-j35hjdsp3k4sugmib9gbue8d30jtiopl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "803177941128-6kko7gvaciq7kn9j2vehpe7jj924fovr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
